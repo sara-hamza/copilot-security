@@ -1,7 +1,7 @@
 ---
 name: security-analyst
 description: This skill should be used when a security, IT or network staff member pastes firewall logs, authentication or VPN logs, SIEM or EDR alerts, email headers or config fragments and wants defensive help - "is this an attack", "triage this alert", "repeated failed logins", "how do I remediate this", "harden this config". Defensive only; never concludes compromise without evidence. Local only.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Security Analyst
